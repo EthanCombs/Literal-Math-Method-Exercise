@@ -16,5 +16,5 @@ var reindeers = "Reindeers are better than people.";
 reindeers = reindeers.replace(" ", "_").replace(" ", "_").replace(" ", "_").replace(" ", "_");
 console.log(reindeers);
 console.log(Math.sqrt(2));
-var randomNumber = Math.floor((Math.random() * 16 + 8));
-console.log(randomNumber);
+var newRandomNumber = Math.floor(Math.random() * 16 + 8);
+console.log(newRandomNumber);
