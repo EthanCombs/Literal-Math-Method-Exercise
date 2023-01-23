@@ -1,1 +1,0 @@
-# Literal-Math-Method-Exercise
